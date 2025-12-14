@@ -1,2 +1,2 @@
-# Comprehensive-Guide-Setting-Up-Splunk-SIEM-and-Configuring-Windows-11-Pro-on-Mac-M1-Using-UTM
+#  Hands-on Splunk SIEM lab covering Windows 11 Pro setup, log forwarding, security monitoring, attack analysis, and SOC-based evaluation on Mac M1 using UTM virtualization.
 This comprehensive document provides a practical and in-depth approach to setting up Splunk SIEM and configuring Windows 11 Pro on a Mac with an M1 chip using UTM. It covers: Windows 11 Pro Installation on Mac (M1) with UTM: , Splunk SIEM Configuration: , Splunk Universal Forwarder Integration: , &amp; Critical Evaluation of Splunk's Security Services:
